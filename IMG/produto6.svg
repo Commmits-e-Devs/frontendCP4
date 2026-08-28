@@ -1,0 +1,15 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f1f8f4"/>
+  <circle cx="200" cy="140" r="95" fill="#95d5b2" opacity="0.5"/>
+  <g transform="translate(130,90) rotate(-30 140 60)">
+    <rect x="0" y="45" width="150" height="18" rx="9" fill="#b08968" stroke="#1b4332" stroke-width="4"/>
+    <rect x="150" y="40" width="55" height="28" rx="10" fill="#40916c" stroke="#1b4332" stroke-width="4"/>
+    <line x1="158" y1="40" x2="158" y2="68" stroke="#f1f8f4" stroke-width="3"/>
+    <line x1="168" y1="40" x2="168" y2="68" stroke="#f1f8f4" stroke-width="3"/>
+    <line x1="178" y1="40" x2="178" y2="68" stroke="#f1f8f4" stroke-width="3"/>
+    <line x1="188" y1="40" x2="188" y2="68" stroke="#f1f8f4" stroke-width="3"/>
+    <line x1="198" y1="40" x2="198" y2="68" stroke="#f1f8f4" stroke-width="3"/>
+  </g>
+  <text x="200" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1b4332">EcoTrend</text>
+  <text x="200" y="290" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#2d6a4f">Escova de Bambu</text>
+</svg>

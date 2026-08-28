@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#f1f8f4"/>
+  <circle cx="200" cy="140" r="95" fill="#95d5b2" opacity="0.5"/>
+  <g transform="translate(150,60)">
+    <rect x="20" y="35" width="60" height="130" rx="12" fill="#40916c" stroke="#1b4332" stroke-width="5"/>
+    <rect x="35" y="8" width="30" height="30" rx="6" fill="#40916c" stroke="#1b4332" stroke-width="5"/>
+    <path d="M32 65 C50 55, 68 55, 78 68" stroke="#f1f8f4" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <circle cx="50" cy="95" r="9" fill="#f1f8f4"/>
+  </g>
+  <text x="200" y="270" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="bold" fill="#1b4332">EcoTrend</text>
+  <text x="200" y="290" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#2d6a4f">Shampoo Natural</text>
+</svg>
